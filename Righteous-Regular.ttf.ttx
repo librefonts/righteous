@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="2.4">
+  <GlyphOrder src="Righteous-Regular.ttf.GlyphOrder.ttx"/>
+  <head src="Righteous-Regular.ttf._h_e_a_d.ttx"/>
+  <hhea src="Righteous-Regular.ttf._h_h_e_a.ttx"/>
+  <maxp src="Righteous-Regular.ttf._m_a_x_p.ttx"/>
+  <OS_2 src="Righteous-Regular.ttf.O_S_2f_2.ttx"/>
+  <hmtx src="Righteous-Regular.ttf._h_m_t_x.ttx"/>
+  <VDMX src="Righteous-Regular.ttf.V_D_M_X_.ttx"/>
+  <cmap src="Righteous-Regular.ttf._c_m_a_p.ttx"/>
+  <loca src="Righteous-Regular.ttf._l_o_c_a.ttx"/>
+  <glyf src="Righteous-Regular.ttf._g_l_y_f.ttx"/>
+  <kern src="Righteous-Regular.ttf._k_e_r_n.ttx"/>
+  <name src="Righteous-Regular.ttf._n_a_m_e.ttx"/>
+  <post src="Righteous-Regular.ttf._p_o_s_t.ttx"/>
+  <gasp src="Righteous-Regular.ttf._g_a_s_p.ttx"/>
+</ttFont>
